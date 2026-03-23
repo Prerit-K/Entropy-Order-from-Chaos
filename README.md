@@ -17,7 +17,7 @@ It is a quiet representation of finitude.
 
 The year is rendered as a finite field of days.
 The past recedes. The future waits.
-The present remains — briefly — and breathes.
+The present remains briefly and breathes.
 
 Designed to run continuously as a **desktop wallpaper**, **PWA**, or **always-on display**, *Entropy* acts as a minimalist *memento mori* without distraction or instruction.
 
